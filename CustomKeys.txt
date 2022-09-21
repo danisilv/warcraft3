@@ -294,18 +294,18 @@ Buttonpos=2,2
 
 [hsor]
 Tip=(|cffffcc00Q|r) Train Sorceress
-Hotkey=Q
-Buttonpos=0,0
+Hotkey=E
+Buttonpos=2,0
 
 [hmpr]
 Tip=(|cffffcc00W|r) Train Priest
-Hotkey=W
-Buttonpos=1,0
+Hotkey=Q
+Buttonpos=0,0
 
 [hspt]
 Tip=(|cffffcc00E|r) Train Spell Breaker
-Hotkey=E
-Buttonpos=2,0
+Hotkey=W
+Buttonpos=1,0
 
 [rhss]
 Tip=(|cffffcc00C|r) Research Control Magic
