@@ -293,11 +293,6 @@ Tip=(|cffffcc00C|r) Research Barrage
 Hotkey=C
 Buttonpos=2,2
 
-[hsor]
-Tip=(|cffffcc00Q|r) Train Sorceress
-Hotkey=E
-Buttonpos=2,0
-
 [hmpr]
 Tip=(|cffffcc00W|r) Train Priest
 Hotkey=Q
@@ -308,20 +303,26 @@ Tip=(|cffffcc00E|r) Train Spell Breaker
 Hotkey=W
 Buttonpos=1,0
 
-[rhss]
-Tip=(|cffffcc00C|r) Research Control Magic
-Hotkey=C
-Buttonpos=2,2
-
-[rhst]
-Tip=(|cffffcc00Z|r) Sorceress Adept Training,(|cffffcc00Z|r) Sorceress Master Training
-Hotkey=Z,Z
-Buttonpos=0,2
+[hsor]
+Tip=(|cffffcc00Q|r) Train Sorceress
+Hotkey=E
+Buttonpos=2,0
 
 [rhpt]
 Tip=(|cffffcc00X|r) Priest Adept Training,(|cffffcc00X|r) Priest Master Training
-Hotkey=X,X
+Hotkey=A,A
+Buttonpos=0,1
+
+[rhss]
+Tip=(|cffffcc00C|r) Research Control Magic
+Hotkey=S
+Buttonpos=1,1
+
+[rhst]
+Tip=(|cffffcc00Z|r) Sorceress Adept Training,(|cffffcc00Z|r) Sorceress Master Training
+Hotkey=D,D
 Buttonpos=1,2
+
 
 [rhse]
 Tip=(|cffffcc00R|r) Research Magic Sentry
