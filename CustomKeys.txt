@@ -193,29 +193,30 @@ Buttonpos=0,2
 Tip=(|cffffcc00Z|r) Summon Archmage
 Revivetip=(|cffffcc00Z|r) Revive Archmage
 Awakentip=(|cffffcc00Z|r) Awaken Archmage
-Hotkey=Z
-Buttonpos=0,2
-
-[Hmkg]
-Tip=(|cffffcc00X|r) Summon Mountain King
-Revivetip=(|cffffcc00X|r) Revive Mountain King
-Awakentip=(|cffffcc00X|r) Awaken Mountain King
-Hotkey=X
-Buttonpos=1,2
-
-[Hpal]
-Tip=(|cffffcc00C|r) Summon Paladin
-Revivetip=(|cffffcc00C|r) Revive Paladin
-Awakentip=(|cffffcc00C|r) Awaken Paladin
-Hotkey=C
-Buttonpos=2,2
+Hotkey=Q
+Buttonpos=0,0
 
 [Hblm]
 Tip=(|cffffcc00A|r) Summon Blood Mage
 Revivetip=(|cffffcc00A|r) Revive Blood Mage
 Awakentip=(|cffffcc00A|r) Awaken Blood Mage
-Hotkey=A
-Buttonpos=0,1
+Hotkey=W
+Buttonpos=1,0
+
+[Hmkg]
+Tip=(|cffffcc00X|r) Summon Mountain King
+Revivetip=(|cffffcc00X|r) Revive Mountain King
+Awakentip=(|cffffcc00X|r) Awaken Mountain King
+Hotkey=E
+Buttonpos=2,0
+
+[Hpal]
+Tip=(|cffffcc00C|r) Summon Paladin
+Revivetip=(|cffffcc00C|r) Revive Paladin
+Awakentip=(|cffffcc00C|r) Awaken Paladin
+Hotkey=R
+Buttonpos=3,0
+
 
 [hfoo]
 Tip=(|cffffcc00Q|r) Train Footman
