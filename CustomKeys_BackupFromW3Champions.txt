@@ -666,10 +666,10 @@ Researchbuttonpos=3,0
 [AHfs]
 Tip=(|cffffcc00E|r) Flame Strike - [|cffffcc00Level 1|r],(|cffffcc00E|r) Flame Strike - [|cffffcc00Level 2|r],(|cffffcc00E|r) Flame Strike - [|cffffcc00Level 3|r]
 Researchtip=(|cffffcc00E|r) Learn Flame Strike - [|cffffcc00Level %d|r]
-Hotkey=E
-Researchhotkey=E
-Buttonpos=2,0
-Researchbuttonpos=2,0
+Hotkey=W
+Researchhotkey=W
+Buttonpos=1,0
+Researchbuttonpos=1,0
 
 [AHbn]
 Tip=(|cffffcc00W|r) Banish - [|cffffcc00Level 1|r],(|cffffcc00W|r) Banish - [|cffffcc00Level 2|r],(|cffffcc00W|r) Banish - [|cffffcc00Level 3|r]
@@ -682,10 +682,10 @@ Researchbuttonpos=0,0
 [AHdr]
 Tip=(|cffffcc00Q|r) Siphon Mana - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Siphon Mana - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Siphon Mana - [|cffffcc00Level 3|r]
 Researchtip=(|cffffcc00Q|r) Learn Siphon Mana - [|cffffcc00Level %d|r]
-Hotkey=W
-Researchhotkey=W
-Buttonpos=1,0
-Researchbuttonpos=1,0
+Hotkey=E
+Researchhotkey=E
+Buttonpos=2,0
+Researchbuttonpos=0,0
 
 [AHpx]
 Tip=(|cffffcc00R|r) Summon Phoenix
