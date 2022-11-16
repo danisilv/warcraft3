@@ -33,7 +33,7 @@ Buttonpos=3,1
 
 [cmdattack]
 Tip=(|cffffcc00A|r) Attack
-Hotkey=T
+Hotkey=A
 Buttonpos=0,1
 
 [cmdstop]
@@ -48,7 +48,7 @@ Buttonpos=0,2
 
 [cmdholdpos]
 Tip=(|cffffcc00X|r) Hold Position
-Hotkey=Y
+Hotkey=H
 Buttonpos=1,2
 
 [cmdpatrol]
