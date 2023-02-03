@@ -1,4 +1,4 @@
-// Cancel
+﻿// Cancel
 [cmdcancel]
 Hotkey=27
 Buttonpos=3,2
@@ -40,7 +40,7 @@ UnButtonpos=0,2
 
 // Hold
 [cmdholdpos]
-Hotkey=H
+Hotkey=T
 Buttonpos=1,2
 UnButtonpos=1,2
 
@@ -591,13 +591,6 @@ Buttonpos=2,1
 UnButtonpos=2,1
 
 
-// Build Workshop
-[harm]
-Hotkey=F
-Buttonpos=3,1
-UnButtonpos=3,1
-
-
 // Build Scout Tower
 [hwtw]
 Hotkey=A
@@ -610,13 +603,6 @@ UnButtonpos=0,1
 Hotkey=X
 Buttonpos=1,2
 UnButtonpos=1,2
-
-
-// Build Arcane Vault
-[hvlt]
-Hotkey=C
-Buttonpos=2,2
-UnButtonpos=2,2
 
 
 // Defend
@@ -746,24 +732,6 @@ Researchhotkey=E
 Researchbuttonpos=2,0
 Buttonpos=2,0
 UnButtonpos=2,0
-
-
-// Banish
-[ahbn]
-Hotkey=Q
-Researchhotkey=Q
-Researchbuttonpos=0,0
-Buttonpos=0,0
-UnButtonpos=0,0
-
-
-// Siphon Mana
-[ahdr]
-Hotkey=W
-Researchhotkey=W
-Researchbuttonpos=1,0
-Buttonpos=1,0
-UnButtonpos=1,0
 
 
 // Phoenix
@@ -3856,42 +3824,6 @@ UnButtonpos=2,0
 
 // Stampede
 [anst]
-Hotkey=R
-Researchhotkey=R
-Researchbuttonpos=3,0
-Buttonpos=3,0
-UnButtonpos=3,0
-
-
-// Silence
-[ansi]
-Hotkey=Q
-Researchhotkey=Q
-Researchbuttonpos=0,0
-Buttonpos=0,0
-UnButtonpos=0,0
-
-
-// Black Arrow
-[anba]
-Hotkey=W
-Researchhotkey=W
-Researchbuttonpos=1,0
-Buttonpos=1,0
-UnButtonpos=1,0
-
-
-// Life Drain
-[andr]
-Hotkey=E
-Researchhotkey=E
-Researchbuttonpos=2,0
-Buttonpos=2,0
-UnButtonpos=2,0
-
-
-// Charm
-[anch]
 Hotkey=R
 Researchhotkey=R
 Researchbuttonpos=3,0
@@ -10000,5 +9932,73 @@ UnButtonpos=2,2
 Hotkey=S
 Buttonpos=1,1
 UnButtonpos=1,1
+
+
+// Build Arcane Vault
+[hvlt]
+Hotkey=F
+Buttonpos=3,1
+UnButtonpos=3,1
+
+
+// Build Workshop
+[harm]
+Hotkey=V
+Buttonpos=2,2
+UnButtonpos=2,2
+
+
+// Silence
+[ansi]
+Hotkey=W
+Researchhotkey=W
+Researchbuttonpos=0,0
+Buttonpos=1,0
+UnButtonpos=1,0
+
+
+// Black Arrow
+[anba]
+Hotkey=R
+Researchhotkey=R
+Researchbuttonpos=1,0
+Buttonpos=3,0
+UnButtonpos=3,0
+
+
+// Life Drain
+[andr]
+Hotkey=Q
+Researchhotkey=Q
+Researchbuttonpos=2,0
+Buttonpos=0,0
+UnButtonpos=0,0
+
+
+// Charm
+[anch]
+Hotkey=E
+Researchhotkey=E
+Researchbuttonpos=3,0
+Buttonpos=2,0
+UnButtonpos=2,0
+
+
+// Siphon Mana
+[ahdr]
+Hotkey=Q
+Researchhotkey=Q
+Researchbuttonpos=0,0
+Buttonpos=0,0
+UnButtonpos=0,0
+
+
+// Banish
+[ahbn]
+Hotkey=W
+Researchhotkey=W
+Researchbuttonpos=1,0
+Buttonpos=1,0
+UnButtonpos=1,0
 
 
