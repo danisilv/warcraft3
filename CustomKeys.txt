@@ -33,14 +33,14 @@ UnButtonpos=1,1
 
 // Move
 [cmdmove]
-Hotkey=Z
+Hotkey=T
 Buttonpos=0,2
 UnButtonpos=0,2
 
 
 // Hold
 [cmdholdpos]
-Hotkey=T
+Hotkey=H
 Buttonpos=1,2
 UnButtonpos=1,2
 
@@ -725,15 +725,6 @@ Buttonpos=3,0
 UnButtonpos=3,0
 
 
-// Flame Strike
-[ahfs]
-Hotkey=E
-Researchhotkey=E
-Researchbuttonpos=2,0
-Buttonpos=2,0
-UnButtonpos=2,0
-
-
 // Phoenix
 [ahpx]
 Hotkey=R
@@ -1308,11 +1299,11 @@ UnButtonpos=3,0
 
 // Chain Lightning
 [aocl]
-Hotkey=Q
-Researchhotkey=Q
-Researchbuttonpos=0,0
-Buttonpos=0,0
-UnButtonpos=0,0
+Hotkey=W
+Researchhotkey=w
+Researchbuttonpos=1,0
+Buttonpos=1,0
+UnButtonpos=1,0
 
 
 // Far Sight
@@ -1326,11 +1317,11 @@ UnButtonpos=2,0
 
 // Feral Spirit
 [aosf]
-Hotkey=W
-Researchhotkey=W
-Researchbuttonpos=1,0
-Buttonpos=1,0
-UnButtonpos=1,0
+Hotkey=Q
+Researchhotkey=Q
+Researchbuttonpos=0,0
+Buttonpos=0,0
+UnButtonpos=0,0
 
 
 // Earthquake
@@ -9995,6 +9986,15 @@ UnButtonpos=0,0
 
 // Banish
 [ahbn]
+Hotkey=E
+Researchhotkey=E
+Researchbuttonpos=2,0
+Buttonpos=2,0
+UnButtonpos=2,0
+
+
+// Flame Strike
+[ahfs]
 Hotkey=W
 Researchhotkey=W
 Researchbuttonpos=1,0
