@@ -622,44 +622,44 @@ UnButtonpos=1,0
 
 // Slow
 [aslo]
-Hotkey=E
-Buttonpos=2,0
-UnButtonpos=2,0
+Hotkey=Q
+Buttonpos=0,0
+UnButtonpos=0,0
 
 
 // Invisibility
 [aivs]
-Hotkey=Q
-Buttonpos=0,0
-UnButtonpos=0,0
+Hotkey=W
+Buttonpos=1,0
+UnButtonpos=1,0
 
 
 // Polymorph
 [aply]
-Hotkey=W
-Buttonpos=1,0
-UnButtonpos=1,0
+Hotkey=E
+Buttonpos=2,0
+UnButtonpos=2,0
 
 
 // Inner Fire
 [ainf]
+Hotkey=E
+Buttonpos=2,0
+UnButtonpos=2,0
+
+
+// Dispel Magic
+[adis]
 Hotkey=W
 Buttonpos=1,0
 UnButtonpos=1,0
 
 
-// Dispel Magic
-[adis]
+// Heal
+[ahea]
 Hotkey=Q
 Buttonpos=0,0
 UnButtonpos=0,0
-
-
-// Heal
-[ahea]
-Hotkey=E
-Buttonpos=2,0
-UnButtonpos=2,0
 
 
 // Spell Steal
@@ -1335,20 +1335,20 @@ UnButtonpos=3,0
 
 // Shockwave
 [aosh]
-Hotkey=Q
-Researchhotkey=Q
-Researchbuttonpos=0,0
-Buttonpos=0,0
-UnButtonpos=0,0
-
-
-// War Stomp
-[aows]
 Hotkey=W
 Researchhotkey=W
 Researchbuttonpos=1,0
 Buttonpos=1,0
 UnButtonpos=1,0
+
+
+// War Stomp
+[aows]
+Hotkey=Q
+Researchhotkey=Q
+Researchbuttonpos=0,0
+Buttonpos=0,0
+UnButtonpos=0,0
 
 
 // Endurance Aura
@@ -1866,17 +1866,15 @@ UnButtonpos=0,0
 
 // Raise Dead
 [arai]
-Hotkey=W
-Buttonpos=1,0
-UnButtonpos=1,0
-
+Hotkey=Q
+Buttonpos=0,0
+UnButtonpos=0,0
 
 // Unholy Frenzy
 [auhf]
-Hotkey=E
-Buttonpos=2,0
-UnButtonpos=2,0
-
+Hotkey=W
+Buttonpos=1,0
+UnButtonpos=1,0
 
 [auuf]
 Hotkey=E
@@ -1886,9 +1884,9 @@ UnButtonpos=2,0
 
 // Cripple 
 [acri]
-Hotkey=Q
-Buttonpos=0,0
-UnButtonpos=0,0
+Hotkey=E
+Buttonpos=2,0
+UnButtonpos=2,0
 
 
 // Curse
